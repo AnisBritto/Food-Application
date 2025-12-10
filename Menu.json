@@ -1,0 +1,5 @@
+{
+    "Breakfast": ["Idli", "Dosa", "Poori", "Upma"],
+    "Lunch": ["Biriyani", "Meals", "Chicken Curry", "Veg Rice"],
+    "Dinner": ["Chapati", "Parotta", "Fried Rice", "Soup"]
+}
